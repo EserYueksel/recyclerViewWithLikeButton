@@ -1,0 +1,43 @@
+<resources>
+    <!-- app name -->
+    <string name="app_name">Filme Streaming Service</string>
+
+    <!-- movie titles-->
+    <string name="movieTitle1">INCEPTION</string>
+    <string name="movieTitle2">THE DARK KNIGHT</string>
+    <string name="movieTitle3">PULP FICTION</string>
+    <string name="movieTitle4">HERR DER RINGE</string>
+    <string name="movieTitle5">FIGHT CLUB</string>
+    <string name="movieTitle6">HANGOVER</string>
+    <string name="movieTitle7">FORREST GUMP</string>
+    <string name="movieTitle8">ZURÜCK IN DIE ZUKUNFT</string>
+    <string name="movieTitle9">AVATAR</string>
+    <string name="movieTitle10">MATRIX</string>
+    <string name="movieTitle11">KEVIN ALLEIN ZU HAUS</string>
+    <string name="movieTitle12">FLUCH DER KARIBIK</string>
+    <string name="movieTitle13">DER PATE</string>
+    <string name="movieTitle14">KÖNIG DER LÖWEN</string>
+    <string name="movieTitle15">STAR WARS</string>
+    <string name="movieTitle16">ZOMBIELAND</string>
+    <string name="movieTitle17">KILL BILL</string>
+    <string name="movieTitle18">BUTTERFLY EFFECT</string>
+    <string name="movieTitle19">I AM LEGEND</string>
+    <string name="movieTitle20">INDIANA JONES</string>
+    <string name="movieTitle21">HARRY POTTER</string>
+    <string name="movieTitle22">DER HOBBIT</string>
+    <string name="movieTitle23">BATMAN</string>
+    <string name="movieTitle24">BLACK WIDOW</string>
+    <string name="movieTitle25">TITANIC</string>
+    <string name="movieTitle26">SAN ANDREAS</string>
+    <string name="movieTitle27">IRON MAN</string>
+    <string name="movieTitle28">AFTER</string>
+    <string name="movieTitle29">READY PLAYER ONE</string>
+    <string name="movieTitle30">JOKER</string>
+
+    <!-- UI -->
+    <string name="account">Konto</string>
+
+    <!-- Content Descriptions -->
+    <string name="mark_as_favorite">Markiere diesen Film als Favorit</string>
+    <string name="movies">FILMTITEL</string>
+</resources>
